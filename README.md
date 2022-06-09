@@ -15,4 +15,4 @@ This repository is used to store Unity's Project(is packaged) and screen gifs wi
   Shader 代码：https://github.com/ChinRoO/Unity-Shader.git
   
   百度网盘：链接：https://pan.baidu.com/s/1uMENXC7YH8kca_xYHZE6Gw?pwd=0000 
-    提取码：0000
+    提取码：0000 （仅作为本库资源备用）
